@@ -60,4 +60,4 @@ Download `train.csv` and place it in the `data/` folder.
 | UI | Streamlit |
 
 ## Author
-Your Name — [github.com/yourusername](https://github.com/yourusername)
+GOOFY-I-AM — [github.com/yourusername](https://github.com/GOOFY-I-AM)
